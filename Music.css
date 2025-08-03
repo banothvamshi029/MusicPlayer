@@ -1,0 +1,31 @@
+Music.css
+body {
+    font-family: Arial, sans-serif;
+    background: #282c34;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+.player {
+    background: #444;
+    padding: 30px;
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+}
+
+.controls button {
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+input[type=range] {
+    width: 100%;
+}
+
+.time {
+    margin-top: 10px;
+}
